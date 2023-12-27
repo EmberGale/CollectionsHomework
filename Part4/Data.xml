@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Person name="FIO">
+  <Adress>
+    <Street>Ulitca</Street>
+    <HouseNumber>Dom</HouseNumber>
+    <FlatNumber>23</FlatNumber>
+  </Adress>
+  <Phones>
+    <MobilePhone>123</MobilePhone>
+    <FlatPhone>123</FlatPhone>
+  </Phones>
+</Person>
